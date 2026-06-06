@@ -1,5 +1,3 @@
-The code is mainly made by AI   
-  
 use right shift to open menu  
   
 use insert to toggle eveything on / off  
@@ -8,5 +6,10 @@ Script should theoretically work for all games, but if you are playing a game ot
 
 # You can either paste to whole script into your executor or this  
 
-# loadstring(game:HttpGet("https://raw.githubusercontent.com/makoyumi/Rivals-ESP-v5/refs/heads/main/RIVALS%20ESP%20v5%20by%20Makoyumi.txt"))()
+# loadstring(game:HttpGet("https://raw.githubusercontent.com/makoyumi/Rivals-ESP-v5/refs/heads/main/RIVALS%20ESP%20v5%20by%20Makoyumi.txt"))()  
+
+code is mainly made by AI   
+  
+
+
 
