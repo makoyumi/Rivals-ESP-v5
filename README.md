@@ -37,3 +37,5 @@
 ```
 loadstring(game:HttpGet("https://raw.githubusercontent.com/makoyumi/Rivals-ESP-v5/refs/heads/main/RIVALS%20ESP%20v5%20by%20Makoyumi.txt"))()
 
+(code is mainly made by AI)
+
